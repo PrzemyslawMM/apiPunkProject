@@ -15,8 +15,7 @@ body {
 }
 
 .container {
-    width: 100%;
+    display: grid;
     height: auto;
-    display: gird;
-    grid-template: 1fr/1fr/1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
