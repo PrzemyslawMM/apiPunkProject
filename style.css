@@ -13,3 +13,10 @@ body {
     color: #fff;
     font-family: "Open Sans", sans-serif;
 }
+
+.container {
+    width: 100%;
+    height: auto;
+    display: gird;
+    grid-template: 1fr/1fr/1fr;
+}
